@@ -744,8 +744,23 @@ li {
     width: 350px;
   }
 
-    
+  .modal{
+  margin-top: 10%;
   }
+}
+
+
+#typedtext {
+  padding-top: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+font-size: xx-large;
+  font-weight: 900;
+  color: #9b53f2;
+  font-family: 'Moon Dance', cursive;
+}
+
 
 /* The Modal (background) */
 .modal {
@@ -784,3 +799,6 @@ li {
   text-decoration: none;
   cursor: pointer;
 }
+
+
+
