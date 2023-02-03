@@ -1,3 +1,3 @@
 # mycv
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-n4qjqc)
+[Link to deployment version  ⚡️](https://emapopa.github.io/mycv/portfolio.html)
